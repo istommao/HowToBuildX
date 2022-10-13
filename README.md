@@ -8,3 +8,5 @@ How to build X
 - [ ] 数据库
 - [ ] Git
 - [ ] SSH
+- [ ] A one-time password (OTP)
+- [ ] SSE demo (Server-sent events)
